@@ -1,0 +1,15 @@
+-- TODOS
+
+- [x] Login UI
+- [] Register UI
+- [] Profile UI
+
+- [] Register User Model
+- [] Login User Model
+- [] Profile
+
+- [] Login Serviese
+- [] Logout Serviese
+- [] Register Serviese
+
+- [] Cubit -> [Login - Logout - Loading - Register - Error - Profile]
